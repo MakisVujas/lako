@@ -61,5 +61,7 @@ body {
 
 #menu-icon {
     font-size: 3rem;
+    cursor: pointer;
+    color: var(--text-color);
 }
 
